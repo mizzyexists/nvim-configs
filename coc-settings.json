@@ -2,7 +2,7 @@
 	"coc.preferences.formatOnSaveFiletypes": ["css", "js"],
 
 	// Explorer
-	"explorer.width": 30,
+	"explorer.width": 50,
 	"explorer.icon.enableNerdfont": true,
 	"explorer.previewAction.onHover": false,
 	"explorer.keyMappings.global": {
