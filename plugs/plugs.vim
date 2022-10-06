@@ -15,4 +15,7 @@ call plug#begin('~/.config/nvim/plugged')
 	" Github Copilot
 	Plug 'github/copilot.vim'
 
+	" Git
+	Plug 'dinhhuy258/git.nvim'
+
 call plug#end()
