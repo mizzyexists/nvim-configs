@@ -7,6 +7,7 @@ call plug#begin('~/.config/nvim/plugged')
 	" Intellisense
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
 	Plug 'leafOfTree/vim-svelte-plugin'
+	Plug 'marlonfan/coc-phpls'
 
 	" FZF
 	Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }

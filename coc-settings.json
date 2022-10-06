@@ -8,6 +8,7 @@
 	"explorer.keyMappings.global": {
 		"<cr>": ["expandable?", "expand", "open"],
 		"v": "open:vsplit"
-	}
+  },
+  "svelte.enable-ts-plugin": true
 
 }
